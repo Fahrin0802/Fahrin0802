@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Fahrin0802
 - 👀 I’m interested in small projects involving data structures and algorithms
-- 🌱 I’m currently want to harness my coding skills more and eventually learn about mobile apps 
+- 🌱 I’m currently in my 2nd year of my Software Engineering degree at UAlberta
+- 👀 This year, I want to harness my coding skills more and eventually learn about mobile apps 
 - 📫 How to reach me: LinkedIn: linkedin.com/in/fahrin
 
 <!---
