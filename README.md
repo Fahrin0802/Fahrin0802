@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Fahrin0802
 - 👀 I’m interested in projects involving full stack development and machine learning.
-- 🌱 I’m currently in my 4nd year of my Software Engineering degree at UAlberta
-- 👀 This year, I want to harness my coding skills more and eventually learn about mobile apps 
+- 🌱 I’m currently in my 4th year of my Software Engineering degree at UAlberta
+- 👀 This year, I want to harness my coding skills more and delve deeper into full stack development
 - 📫 How to reach me: LinkedIn: linkedin.com/in/fahrin
 
 <!---
